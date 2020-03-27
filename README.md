@@ -13,18 +13,18 @@ You tell it the desired folder structure and it mounts and put your files in ord
 
 <b>\YEAR\ARTIST\ALBUM\ Files here</b>
                     
-Or you may want....
+Or you might want....
                     
 <b>\GENRE\ALBUM\ Files here</b>
 
-Or simply..
+Or...
 
 <b>\ARTIST\ALBUM\ Files Here</b>
 
-Or..
+Or simply..
 
 <b>\ALBUM\ Files Here</b>
 
-The bottom line is: whatever is the organization sequence, Folderizer will make it for you.
+<strong>The bottom line is: whatever is the organization sequence, Folderizer will make it for you.</strong>
 
 Later on, it is intended to be built a WPF desktop application that will consume this library and provide a graphic user interface.
